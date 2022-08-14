@@ -27,6 +27,6 @@ Create an app that displays a list of data using RecyclerView library. Use local
 ## Sample Project  
 [Athkar App](https://github.com/shaima-alghamdi-tuwaiq/Athkar-App)
 
-##Athkari App - Video 
+## Athkari App - Video
 https://user-images.githubusercontent.com/109922953/184524583-a43b1325-91d7-4979-97c1-a8dbc865e3e5.mp4
 
