@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app_name">Athkari</string>
+    <string name="morning_athkar">Morning Athkar</string>
+    <string name="evening_athkar">Evening Athkar</string>
+    <string name="sleep_athkar">Sleep Athkar</string>
+    <string name="waking_up_athkar">Waking Up Athkar</string>
+    <string name="mosque_athkar">Mosque Athkar</string>
+    <string name="prayers_athkar">Prayer Athkar</string>
 </resources>
